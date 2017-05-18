@@ -2,5 +2,5 @@
 
 ### Angelo
 
-*cool
-*beans 
+* cool
+* beans 
